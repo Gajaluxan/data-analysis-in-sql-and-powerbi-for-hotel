@@ -1,1 +1,2 @@
-#Hotel Data Analysis
+# Hotel Data Analysis
+	![alt text](Hotel Report.jpg)
